@@ -1,0 +1,8 @@
+int 
+double 
+char 
+byte 
+ a.	5.1654, 3.11, 9
+ b.	+   -   *    %    /
+ c.	=   >   <   !=    ==
+ d.	if  class  break  else
